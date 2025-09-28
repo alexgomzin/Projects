@@ -31,6 +31,8 @@
 - Все числовые признаки **стандартизированы**
 - Применена **K-Means кластеризация**
 - Оптимальное число кластеров (**4**) определено по **silhouette score**
+- <img width="792" height="617" alt="image" src="https://github.com/user-attachments/assets/6799b327-ad68-4a2c-95ba-1161add9a600" />
+
 
 ---
 
@@ -44,6 +46,8 @@
 | **3**  | **VIP**              | 100           | 6.8       | **~1603**      | Персональные предложения, бонусы, удержание |
 
 ![RFM Clusters](assets/rfm_clusters.png)
+<img width="588" height="595" alt="image" src="https://github.com/user-attachments/assets/de706320-f666-43e0-ba31-d36765af83cc" />
+
 
 > *Визуализация кластеров после PCA-снижения размерности*
 
