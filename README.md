@@ -48,9 +48,6 @@
 ![RFM Clusters](assets/rfm_clusters.png)
 <img width="588" height="595" alt="image" src="https://github.com/user-attachments/assets/de706320-f666-43e0-ba31-d36765af83cc" />
 
-
-> *Визуализация кластеров после PCA-снижения размерности*
-
 ---
 
 ## 🚀 Результат
